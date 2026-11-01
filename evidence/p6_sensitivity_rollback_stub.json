@@ -1,0 +1,48 @@
+{
+  "manifest_version": 1,
+  "manifest_kind": "p6_sensitivity_rollback_stub",
+  "computed_from": {
+    "path": "evidence/p6_retroactive_application.json",
+    "sha256": "b9fd4b595d99d6db9014c87e0ca95f96344b255b3b633e1189b0b230ee1a6b69",
+    "n_events": 160
+  },
+  "liberal": {
+    "fields_populated_pct": 75.39,
+    "judgment_pct": 18.75
+  },
+  "rollback_strict": {
+    "n_events_with_null_stub": 160,
+    "fields_populated_pct": 69.14,
+    "judgment_pct": 18.75,
+    "per_event_min_pct": 56.25,
+    "per_event_max_pct": 75.0
+  },
+  "rollback_and_residual_risk_strict": {
+    "n_residual_risk_affected": 120,
+    "fields_populated_pct": 64.45,
+    "judgment_pct": 23.44
+  },
+  "empty_list_fix": {
+    "fields": [
+      "blast_radius",
+      "dependencies"
+    ],
+    "n_prior_state_ref_unpopulatable": 160,
+    "n_conformant": 0
+  },
+  "pre_registered_thresholds": {
+    "positive_presence_min": 25.0,
+    "positive_judgment_max": 50.0
+  },
+  "verdict_unchanged_under_all_readings": true,
+  "ledger_rows": {
+    "p6.rbs::n_stub": 160,
+    "p6.rbs::presence_pct": 69.14,
+    "p6.rbs::min_pct": 56.25,
+    "p6.rbs::max_pct": 75.0,
+    "p6.rbs::both_presence_pct": 64.45,
+    "p6.rbs::both_judgment_pct": 23.44,
+    "p6.rbs::n_prior_missing": 160,
+    "p6.rbs::n_conformant_fix": 0
+  }
+}

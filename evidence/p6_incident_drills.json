@@ -1,0 +1,430 @@
+{
+  "manifest_version": 1,
+  "manifest_kind": "p6_incident_drills",
+  "n_reps": 10,
+  "dep_depth": 3,
+  "arms": {
+    "passport": {
+      "ftr_pct": 100.0,
+      "mttr_s": 2.83,
+      "fpr_pct": 0.0
+    },
+    "lineage-only": {
+      "ftr_pct": 33.33,
+      "mttr_s": 29.67,
+      "fpr_pct": 0.0
+    }
+  },
+  "per_scenario": {
+    "passport": {
+      "injection": {
+        "ftr_pct": 100.0,
+        "mttr_s": 0.5
+      },
+      "deletion": {
+        "ftr_pct": 100.0,
+        "mttr_s": 1.0
+      },
+      "rollback": {
+        "ftr_pct": 100.0,
+        "mttr_s": 7.0
+      }
+    },
+    "lineage-only": {
+      "injection": {
+        "ftr_pct": 0.0,
+        "mttr_s": 30.0
+      },
+      "deletion": {
+        "ftr_pct": 0.0,
+        "mttr_s": 30.0
+      },
+      "rollback": {
+        "ftr_pct": 100.0,
+        "mttr_s": 29.0
+      }
+    }
+  },
+  "raw_events": {
+    "passport": [
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": true,
+        "recovery_s": 0.5,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": true,
+        "recovery_s": 1.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 7.0,
+        "false_positive": false
+      }
+    ],
+    "lineage-only": [
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "injection",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "deletion",
+        "first_try_recovery": false,
+        "recovery_s": 30.0,
+        "false_positive": false
+      },
+      {
+        "scenario": "rollback",
+        "first_try_recovery": true,
+        "recovery_s": 29.0,
+        "false_positive": false
+      }
+    ]
+  },
+  "ledger_rows": {
+    "p6.incident::ftr_eq_pct": 100.0,
+    "p6.incident::ftr_free_pct": 33.33,
+    "p6.incident::mttr_eq_s": 2.83,
+    "p6.incident::mttr_free_s": 29.67,
+    "p6.incident::fpr_eq_pct": 0.0,
+    "p6.incident::fpr_free_pct": 0.0,
+    "p6.incident::inj_eq_s": 0.5,
+    "p6.incident::inj_free_s": 30.0,
+    "p6.incident::del_eq_s": 1.0,
+    "p6.incident::del_free_s": 30.0,
+    "p6.incident::rb_eq_s": 7.0,
+    "p6.incident::rb_free_s": 29.0,
+    "p6.incident::n_reps": 10,
+    "p6.incident::dep_depth": 3
+  }
+}

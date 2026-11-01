@@ -1,0 +1,2962 @@
+{
+  "manifest_version": 2,
+  "manifest_kind": "p6_retroactive_application",
+  "events": [
+    {
+      "passport_id": "p4-e4-cosmetics",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-drug",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-novel1",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-qbo2",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-spectro",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-finai",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-fintech",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-finai_old",
+      "corpus": "p4_e4_policy_supersession",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_407723e34919",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4e71cb56b7e1",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_10a46506ed97",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d539eb7876fd",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d0f1f6e52b84",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_dc146136c76d",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_7310fbf7c514",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_a761e6c3ad2c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4b2ab8d7859a",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d038150d4d81",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_dc8883753224",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_51e4e1c11b0d",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_41cbb1acde4c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_12dd165b7dfb",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_56f5bc3ef18c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_58068214a0fe",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_65ba4e1d1e7f",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_190be7d524b6",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4f5a0c7cfa83",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_6a6ae5e119a3",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_1625090a60e2",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_649d1100e931",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_610c05493a23",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_a08895d95cba",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_83477370fc3d",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_203d8ce5d402",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_05ab35e5efdd",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_aaef19880cbe",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_a509d496fc51",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_6a55ce9fdfff",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_9029f8955822",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d10e7bab7996",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_e6218ceabc9d",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_43d1a4702afa",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_336d119e4d89",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_7703af93f8ab",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_b9a4ccd934f7",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_6cea400f0689",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_ed68346553e1",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_ad6db5639b4c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_80657ff344ee",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_a2b1e769eb35",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d83c184f8155",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_eb8d66195eaf",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_31a053a0ddfd",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_9d3685611aac",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_9a7656bf7a62",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d7819ea35845",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_7f928f5cb2f1",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_246fe3a6f37a",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_858809e82bc1",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_89d3654e407e",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_9bd0f43ef810",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4a969b19072c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d908619c9557",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_a360b839b021",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_e03a6b9b084d",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_b0412be0564c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_436659202dd5",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_1b3a19a02232",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_ec78e574ccc3",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_f80a13954c40",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_3fc9bbf4b91b",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d48b140cc17b",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_2ce16fe7a7ea",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4b37420017f4",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_02df2bc30680",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4d40bdebe8ed",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_dfcd53ab63a9",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_dc281a8571fe",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_96405d244383",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_5fc6a768300c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_1aa3b0a0afec",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_b463518849ba",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_187f1784d19e",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_00b776334627",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_719f4312a7be",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_e38f84cc03e7",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_bf679584ed31",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_12e6ab64429d",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_07f47ef6a95c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_b0e0515e95a6",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_1c1cd354dcd6",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_f904746acf76",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_2e6e87b39261",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_902767c5123c",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_5f17574bdab2",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_ce6e6857c65b",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_d02d0f2c63a8",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4907386859b2",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_23a60baa9936",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_00566209e934",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_e7f757542dee",
+      "corpus": "p2_cwm_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-cohort_size_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-cohort_stratum_cheap_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-cohort_stratum_moderate_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-cohort_stratum_prohibitive_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_baseline_constant_median_mae",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_baseline_sascore_only_mae",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t3_baseline_step_count_auroc",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_llm_mae_baseline_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_llm_mae_baseline_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_llm_mae_i1_cheatsheet_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_llm_mae_i1_cheatsheet_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_llm_mae_i4_pareto_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_llm_mae_i4_pareto_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t3_llm_auroc_baseline_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t3_llm_auroc_baseline_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-cost_label_channel_a_fraction",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-cost_label_channel_b_fraction",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_overest_factor_median_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_frac_pred_synth_band_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_pred_usd_median_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_spearman_complexity_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_overest_factor_median_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_frac_pred_synth_band_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_pred_usd_median_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_spearman_complexity_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_i4_pareto_delta_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_i4_pareto_delta_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t3_precision_at5_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t3_precision_at5_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_real_mae_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_real_bias_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_real_spearman_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_real_mae_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_real_bias_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_real_spearman_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-aizynth_solved_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-aizynth_solved_cheap_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-aizynth_solved_moderate_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-aizynth_solved_prohibitive_n",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_mae_cheap_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_abstentions_cheap_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_mae_moderate_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_abstentions_moderate_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_mae_prohibitive_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_abstentions_prohibitive_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_mae_cheap_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_abstentions_cheap_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_mae_moderate_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_abstentions_moderate_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_mae_prohibitive_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_abstentions_prohibitive_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_diff_prohib_cheap_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_regime_diff_prohib_cheap_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 68.75,
+      "n_populated": 11,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_anchor_pred_spread_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_anchor_true_spread_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_anchor_tracking_ratio_claude_opus_4_7",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_anchor_pred_spread_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_anchor_true_spread_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p1-egcl-t1_anchor_tracking_ratio_claude_haiku_4_5",
+      "corpus": "p1_egcl_claim_ledger",
+      "artifact_class": "memory",
+      "fields_populated_pct": 62.5,
+      "n_populated": 10,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref",
+        "promoter_id",
+        "mechanism_config_ref",
+        "residual_risk"
+      ],
+      "conformant": false
+    }
+  ],
+  "aggregate": {
+    "n_events": 160,
+    "fields_populated_pct": 75.39,
+    "judgment_pct": 18.75,
+    "conformant_pct": 0.0
+  },
+  "input_digests": [
+    {
+      "path": "evidence/p4_e4_verdicts/e4_verdicts_real.json",
+      "present": true,
+      "bytes": 19790,
+      "sha256": "c13a179bc8ff7a7cfb0125bf785e76831216a191c22ff19917f22b744e964cf2",
+      "n_lines": 537
+    },
+    {
+      "path": "evidence/p2_ledger.jsonl",
+      "present": true,
+      "bytes": 85091,
+      "sha256": "4d03aca3703d18453d34d208632b16bd0e8837e74f0c3a7160c00fa66fc4ca87",
+      "n_lines": 186
+    },
+    {
+      "path": "evidence/p1_egcl/ledger.jsonl",
+      "present": true,
+      "bytes": 25231,
+      "sha256": "ea5f84ef7187cb9b137e8ff2d9fb10fac013be942d1b8e5924d84bdb45ec799b",
+      "n_lines": 59
+    }
+  ],
+  "by_corpus": {
+    "p1_egcl_claim_ledger": {
+      "n_events": 59,
+      "fields_populated_pct": 65.36,
+      "judgment_pct": 18.75,
+      "n_conformant": 0,
+      "outcome_rejected": 1
+    },
+    "p2_cwm_claim_ledger": {
+      "n_events": 93,
+      "fields_populated_pct": 81.25,
+      "judgment_pct": 18.75,
+      "n_conformant": 0,
+      "outcome_rejected": 0
+    },
+    "p4_e4_policy_supersession": {
+      "n_events": 8,
+      "fields_populated_pct": 81.25,
+      "judgment_pct": 18.75,
+      "n_conformant": 0,
+      "outcome_rejected": 8
+    }
+  },
+  "by_artifact_class": {
+    "memory": {
+      "n_events": 152,
+      "fields_populated_pct": 75.08,
+      "judgment_pct": 18.75,
+      "n_conformant": 0,
+      "outcome_rejected": 1
+    },
+    "policy": {
+      "n_events": 8,
+      "fields_populated_pct": 81.25,
+      "judgment_pct": 18.75,
+      "n_conformant": 0,
+      "outcome_rejected": 8
+    }
+  },
+  "ledger_rows": {
+    "p6.retro::fields_populated_pct": 75.39,
+    "p6.retro::n_events": 160,
+    "p6.retro::judgment_pct": 18.75,
+    "p6.retro::conformant_pct": 0.0,
+    "p6.retro::n_conformant": 0,
+    "p6.retro::n_fields_required": 16,
+    "p6.retro::n_corpora": 3,
+    "p6.retro::n_rejected": 9,
+    "p6.retro::n_p4": 8,
+    "p6.retro::n_p2": 93,
+    "p6.retro::n_p1": 59,
+    "p6.retro::pct_p4": 81.25,
+    "p6.retro::pct_p2": 81.25,
+    "p6.retro::pct_p1": 65.36,
+    "p6.retro::pct_min": 62.5,
+    "p6.retro::pct_max": 81.25
+  }
+}

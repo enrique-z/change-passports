@@ -1,0 +1,148 @@
+{
+  "manifest_version": 1,
+  "manifest_kind": "p6_retroactive_application",
+  "events": [
+    {
+      "passport_id": "p4-e4-cosmetics",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-drug",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-novel1",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-qbo2",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-spectro",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p4-e4-finai",
+      "artifact_class": "policy",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_407723e34919",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    },
+    {
+      "passport_id": "p2-cwm-claim_4e71cb56b7e1",
+      "artifact_class": "memory",
+      "fields_populated_pct": 81.25,
+      "n_populated": 13,
+      "n_required": 16,
+      "fields_required_judgment": [
+        "blast_radius",
+        "dependencies",
+        "rollback"
+      ],
+      "fields_unpopulatable": [
+        "prior_state_ref"
+      ],
+      "conformant": false
+    }
+  ],
+  "aggregate": {
+    "n_events": 8,
+    "fields_populated_pct": 81.25,
+    "judgment_pct": 18.75,
+    "conformant_pct": 0.0
+  },
+  "ledger_rows": {
+    "p6.retro::fields_populated_pct": 81.25,
+    "p6.retro::n_events": 8,
+    "p6.retro::judgment_pct": 18.75,
+    "p6.retro::conformant_pct": 0.0,
+    "p6.retro::n_conformant": 0,
+    "p6.retro::n_fields_required": 16
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "manifest_version": 1,
+  "manifest_kind": "p6_sensitivity_strict",
+  "computed_from": {
+    "path": "evidence/p6_retroactive_application.json",
+    "sha256": "b9fd4b595d99d6db9014c87e0ca95f96344b255b3b633e1189b0b230ee1a6b69",
+    "n_events": 160
+  },
+  "disputed_field": "residual_risk",
+  "n_events_affected": 120,
+  "n_affected_ci_mapping": 27,
+  "n_affected_constant_threshold": 93,
+  "strict_ci_only": {
+    "fields_populated_pct": 74.34,
+    "judgment_pct": 19.8
+  },
+  "liberal": {
+    "fields_populated_pct": 75.39,
+    "judgment_pct": 18.75
+  },
+  "strict": {
+    "fields_populated_pct": 70.7,
+    "judgment_pct": 23.44
+  },
+  "pre_registered_thresholds": {
+    "positive_presence_min": 25.0,
+    "positive_judgment_max": 50.0
+  },
+  "verdict_unchanged_under_strict_reading": true,
+  "ledger_rows": {
+    "p6.sens::n_affected": 120,
+    "p6.sens::n_affected_ci": 27,
+    "p6.sens::strict_presence_pct": 70.7,
+    "p6.sens::strict_judgment_pct": 23.44,
+    "p6.sens::strict1_presence_pct": 74.34,
+    "p6.sens::strict1_judgment_pct": 19.8
+  }
+}

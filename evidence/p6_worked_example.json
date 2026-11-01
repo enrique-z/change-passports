@@ -1,0 +1,84 @@
+{
+  "source_sha256": "c13a179bc8ff7a7cfb0125bf785e76831216a191c22ff19917f22b744e964cf2",
+  "example": {
+    "passport": {
+      "passport_id": "p4-e4-cosmetics",
+      "artifact_id": ".../run-cosmetics-experiment",
+      "artifact_class": "policy",
+      "promoter_id": "p4.gate_composer.admit",
+      "promoted_at": "2026-08-14T19:39:55Z",
+      "prior_state_ref": "",
+      "next_state_ref": ".../run-cosmetics-experiment",
+      "promotion_mechanism": "gate-composition",
+      "mechanism_config_ref": "operating_point:lenient",
+      "promotion_outcome": "rejected",
+      "evidence_refs": [
+        "formal:cosmetics",
+        "causal:cosmetics",
+        "transition:cosmetics"
+      ],
+      "residual_risk": {
+        "compliance": [
+          1.0,
+          0.95,
+          true
+        ],
+        "causal_effect": [
+          0.6111303453438195,
+          0.85,
+          true
+        ],
+        "transition": [
+          0.0,
+          0.03,
+          false
+        ]
+      },
+      "blast_radius": [],
+      "dependencies": [],
+      "rollback": {
+        "procedure_ref": null,
+        "tested_at": null
+      },
+      "justification_chain": [
+        "transition:no_paired_transition_batch"
+      ]
+    },
+    "fields_required_judgment": [
+      "blast_radius",
+      "dependencies",
+      "rollback"
+    ],
+    "fields_unpopulatable": [
+      "prior_state_ref"
+    ],
+    "validator": {
+      "conformant": false,
+      "fields_populated_pct": 81.25,
+      "missing_fields": [
+        "prior_state_ref",
+        "blast_radius",
+        "dependencies"
+      ],
+      "invalid_fields": []
+    }
+  },
+  "least_complete_event": {
+    "corpus": "p1_egcl_claim_ledger",
+    "n_events_at_this_level": 32,
+    "n_populated": 10,
+    "fields_populated_pct": 62.5,
+    "fields_unpopulatable": [
+      "prior_state_ref",
+      "promoter_id",
+      "mechanism_config_ref",
+      "residual_risk"
+    ],
+    "fields_required_judgment": [
+      "blast_radius",
+      "dependencies",
+      "rollback"
+    ],
+    "conformant": false
+  }
+}

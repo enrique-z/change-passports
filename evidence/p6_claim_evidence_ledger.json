@@ -1,0 +1,596 @@
+[
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:51",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:52",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_corpora}{3}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_corpora",
+    "provenance_chain": [
+      "stamped:p6.retro::n_corpora=3",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_corpora"
+    ],
+    "notes": "literal=3"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:66",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:67",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{fields_populated_pct}{75.39}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::fields_populated_pct",
+    "provenance_chain": [
+      "stamped:p6.retro::fields_populated_pct=75.39",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::fields_populated_pct"
+    ],
+    "notes": "literal=75.39"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:68",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{judgment_pct}{18.75}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::judgment_pct",
+    "provenance_chain": [
+      "stamped:p6.retro::judgment_pct=18.75",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::judgment_pct"
+    ],
+    "notes": "literal=18.75"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:70",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_conformant}{0}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant",
+    "provenance_chain": [
+      "stamped:p6.retro::n_conformant=0",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant"
+    ],
+    "notes": "literal=0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:71",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:473",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_corpora}{3}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_corpora",
+    "provenance_chain": [
+      "stamped:p6.retro::n_corpora=3",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_corpora"
+    ],
+    "notes": "literal=3"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:475",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:482",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_p2}{93}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p2",
+    "provenance_chain": [
+      "stamped:p6.retro::n_p2=93",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p2"
+    ],
+    "notes": "literal=93"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:482",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_p1}{59}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p1",
+    "provenance_chain": [
+      "stamped:p6.retro::n_p1=59",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p1"
+    ],
+    "notes": "literal=59"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:522",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{fields_populated_pct}{75.39}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::fields_populated_pct",
+    "provenance_chain": [
+      "stamped:p6.retro::fields_populated_pct=75.39",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::fields_populated_pct"
+    ],
+    "notes": "literal=75.39"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:522",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:523",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{judgment_pct}{18.75}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::judgment_pct",
+    "provenance_chain": [
+      "stamped:p6.retro::judgment_pct=18.75",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::judgment_pct"
+    ],
+    "notes": "literal=18.75"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:523",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:524",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{conformant_pct}{0.0}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::conformant_pct",
+    "provenance_chain": [
+      "stamped:p6.retro::conformant_pct=0.0",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::conformant_pct"
+    ],
+    "notes": "literal=0.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:524",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:528",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:529",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_corpora}{3}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_corpora",
+    "provenance_chain": [
+      "stamped:p6.retro::n_corpora=3",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_corpora"
+    ],
+    "notes": "literal=3"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:531",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_conformant}{0}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant",
+    "provenance_chain": [
+      "stamped:p6.retro::n_conformant=0",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant"
+    ],
+    "notes": "literal=0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:532",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:551",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_p4}{8}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p4",
+    "provenance_chain": [
+      "stamped:p6.retro::n_p4=8",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p4"
+    ],
+    "notes": "literal=8"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:551",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{pct_p4}{81.25}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p4",
+    "provenance_chain": [
+      "stamped:p6.retro::pct_p4=81.25",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p4"
+    ],
+    "notes": "literal=81.25"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:552",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_p2}{93}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p2",
+    "provenance_chain": [
+      "stamped:p6.retro::n_p2=93",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p2"
+    ],
+    "notes": "literal=93"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:552",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{pct_p2}{81.25}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p2",
+    "provenance_chain": [
+      "stamped:p6.retro::pct_p2=81.25",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p2"
+    ],
+    "notes": "literal=81.25"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:553",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_p1}{59}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p1",
+    "provenance_chain": [
+      "stamped:p6.retro::n_p1=59",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_p1"
+    ],
+    "notes": "literal=59"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:553",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{pct_p1}{65.36}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p1",
+    "provenance_chain": [
+      "stamped:p6.retro::pct_p1=65.36",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p1"
+    ],
+    "notes": "literal=65.36"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:555",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:555",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{fields_populated_pct}{75.39}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::fields_populated_pct",
+    "provenance_chain": [
+      "stamped:p6.retro::fields_populated_pct=75.39",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::fields_populated_pct"
+    ],
+    "notes": "literal=75.39"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:555",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_conformant}{0}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant",
+    "provenance_chain": [
+      "stamped:p6.retro::n_conformant=0",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant"
+    ],
+    "notes": "literal=0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:560",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{judgment_pct}{18.75}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::judgment_pct",
+    "provenance_chain": [
+      "stamped:p6.retro::judgment_pct=18.75",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::judgment_pct"
+    ],
+    "notes": "literal=18.75"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:563",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{pct_min}{62.5}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_min",
+    "provenance_chain": [
+      "stamped:p6.retro::pct_min=62.5",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_min"
+    ],
+    "notes": "literal=62.5"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:563",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{pct_max}{81.25}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_max",
+    "provenance_chain": [
+      "stamped:p6.retro::pct_max=81.25",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_max"
+    ],
+    "notes": "literal=81.25"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:572",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{pct_p2}{81.25}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p2",
+    "provenance_chain": [
+      "stamped:p6.retro::pct_p2=81.25",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p2"
+    ],
+    "notes": "literal=81.25"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:573",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{pct_p1}{65.36}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p1",
+    "provenance_chain": [
+      "stamped:p6.retro::pct_p1=65.36",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::pct_p1"
+    ],
+    "notes": "literal=65.36"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:585",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:611",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:659",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{ftr_eq_pct}{100.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::ftr_eq_pct",
+    "provenance_chain": [
+      "stamped:p6.incident::ftr_eq_pct=100.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::ftr_eq_pct"
+    ],
+    "notes": "literal=100.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:659",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{ftr_free_pct}{33.33}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::ftr_free_pct",
+    "provenance_chain": [
+      "stamped:p6.incident::ftr_free_pct=33.33",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::ftr_free_pct"
+    ],
+    "notes": "literal=33.33"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:660",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{mttr_eq_s}{2.83}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::mttr_eq_s",
+    "provenance_chain": [
+      "stamped:p6.incident::mttr_eq_s=2.83",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::mttr_eq_s"
+    ],
+    "notes": "literal=2.83"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:660",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{mttr_free_s}{29.67}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::mttr_free_s",
+    "provenance_chain": [
+      "stamped:p6.incident::mttr_free_s=29.67",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::mttr_free_s"
+    ],
+    "notes": "literal=29.67"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:661",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{fpr_eq_pct}{0.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::fpr_eq_pct",
+    "provenance_chain": [
+      "stamped:p6.incident::fpr_eq_pct=0.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::fpr_eq_pct"
+    ],
+    "notes": "literal=0.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:661",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{fpr_free_pct}{0.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::fpr_free_pct",
+    "provenance_chain": [
+      "stamped:p6.incident::fpr_free_pct=0.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::fpr_free_pct"
+    ],
+    "notes": "literal=0.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:689",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:734",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_conformant}{0}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant",
+    "provenance_chain": [
+      "stamped:p6.retro::n_conformant=0",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_conformant"
+    ],
+    "notes": "literal=0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:735",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.retro}{n_events}{160}",
+    "supported_verdict_id": "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events",
+    "provenance_chain": [
+      "stamped:p6.retro::n_events=160",
+      "evidence/p6_retroactive_application.json::ledger_rows.p6.retro::n_events"
+    ],
+    "notes": "literal=160"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:856",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{inj_eq_s}{0.5}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::inj_eq_s",
+    "provenance_chain": [
+      "stamped:p6.incident::inj_eq_s=0.5",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::inj_eq_s"
+    ],
+    "notes": "literal=0.5"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:856",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{inj_free_s}{30.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::inj_free_s",
+    "provenance_chain": [
+      "stamped:p6.incident::inj_free_s=30.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::inj_free_s"
+    ],
+    "notes": "literal=30.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:857",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{del_eq_s}{1.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::del_eq_s",
+    "provenance_chain": [
+      "stamped:p6.incident::del_eq_s=1.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::del_eq_s"
+    ],
+    "notes": "literal=1.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:857",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{del_free_s}{30.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::del_free_s",
+    "provenance_chain": [
+      "stamped:p6.incident::del_free_s=30.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::del_free_s"
+    ],
+    "notes": "literal=30.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:858",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{rb_eq_s}{7.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::rb_eq_s",
+    "provenance_chain": [
+      "stamped:p6.incident::rb_eq_s=7.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::rb_eq_s"
+    ],
+    "notes": "literal=7.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:858",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{rb_free_s}{29.0}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::rb_free_s",
+    "provenance_chain": [
+      "stamped:p6.incident::rb_free_s=29.0",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::rb_free_s"
+    ],
+    "notes": "literal=29.0"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:862",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{n_reps}{10}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::n_reps",
+    "provenance_chain": [
+      "stamped:p6.incident::n_reps=10",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::n_reps"
+    ],
+    "notes": "literal=10"
+  },
+  {
+    "source_span": "papers/p6_clea_change_passports/main.tex:863",
+    "kind": "stamped_cell",
+    "assertion_text": "\\StampedCell{p6.incident}{dep_depth}{3}",
+    "supported_verdict_id": "evidence/p6_incident_drills.json::ledger_rows.p6.incident::dep_depth",
+    "provenance_chain": [
+      "stamped:p6.incident::dep_depth=3",
+      "evidence/p6_incident_drills.json::ledger_rows.p6.incident::dep_depth"
+    ],
+    "notes": "literal=3"
+  }
+]
